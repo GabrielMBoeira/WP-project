@@ -1,0 +1,27 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> mensagem-home **/
+#post-33 .has-very-dark-gray-background-color {
+	width: 580px !important;
+}
+
+/** General >> div-paragrafo-home **/
+#post-33 .has-very-dark-gray-background-color {
+	height: 100px !important;
+	top: 500px !important;
+	left: 100px !important;
+}
+
+/** General >> div-title-main **/
+#post-33 .has-very-dark-gray-background-color {
+	height: 80px !important;
+}
+
+/** General >> image-main **/
+#post-33 .uagb-section__overlay {
+	
+}
+
