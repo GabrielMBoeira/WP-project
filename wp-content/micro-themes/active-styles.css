@@ -25,3 +25,104 @@
 	
 }
 
+/** General >> Menu item 127 link **/
+#menu-item:hover {
+	color: #FB3640 !important;
+}
+
+/** General >> logo-image **/
+.uagb-block-550ceb80-d182-4a3b-9f03-d228eb8e26eb > .uagb-column__inner-wrap {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+/** General >> box-logo-image **/
+.uagb-block-d644c0d2-7d93-4cca-a563-2f6d3d51d462 > .uagb-column__inner-wrap {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+/** General >> meus-softwares-box-logo-image **/
+.uagb-block-79a4401f-f705-4eab-a5fc-9f53991503f7 > .uagb-column__inner-wrap {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-justify-content: center !important;
+	justify-content: center !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+/** General >> meus-softwares-body **/
+#post-53 .uagb-section__overlay {
+	
+}
+
+/** General >> description-the-future **/
+@media (max-width: 600px) {
+	
+}
+
+
+/*= Main Menu ================= */
+
+/** Main Menu >> Menu item 127 link _2 **/
+#menu-item-127 > a:hover:hover {
+	color: #FB3640 !important;
+}
+
+/** Main Menu >> Menu item 125 link **/
+#menu-item-125 > a:hover {
+	color: #FB3640 !important;
+}
+
+
+/*( Large Desktop )*/
+@media (min-width: 1200px) {
+
+	/*= General =================== */
+
+	/** General >> button-description-software **/
+	#post-53 .uagb-infobox-cta-link {
+	border-radius: 20px !important;
+}
+
+	/** General >> block-image **/
+	.uagb-block-7622deb2-386a-431c-ab4e-8c681ab90049 > .uagb-column__inner-wrap {
+	
+}
+
+
+}
+
+
+/*( Phone )*/
+@media (max-width: 480px) {
+
+	/*= General =================== */
+
+	/** General >> div-conhecimentos **/
+	.uagb-block-da87e1e9-d305-4f4c-8461-0ea455b69b60 > .uagb-columns__overlay {
+	padding-bottom: 0 !important;
+	padding-left: 0 !important;
+}
+
+
+}
+
