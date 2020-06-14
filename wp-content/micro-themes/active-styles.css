@@ -93,34 +93,19 @@
 }
 
 
-/*( Large Desktop )*/
-@media (min-width: 1200px) {
-
-	/*= General =================== */
-
-	/** General >> button-description-software **/
-	#post-53 .uagb-infobox-cta-link {
-	border-radius: 20px !important;
-}
-
-	/** General >> block-image **/
-	.uagb-block-7622deb2-386a-431c-ab4e-8c681ab90049 > .uagb-column__inner-wrap {
-	
-}
-
-
-}
-
-
 /*( Phone )*/
 @media (max-width: 480px) {
 
-	/*= General =================== */
+	/*= Main Menu ================= */
 
-	/** General >> div-conhecimentos **/
-	.uagb-block-da87e1e9-d305-4f4c-8461-0ea455b69b60 > .uagb-columns__overlay {
-	padding-bottom: 0 !important;
-	padding-left: 0 !important;
+	/** Main Menu >> arrow-left-caroussel **/
+	#post-33 .slick-prev {
+	margin-left: -50px !important;
+}
+
+	/** Main Menu >> arrow-right-caroussel **/
+	#post-33 .slick-next {
+	margin-right: -50px !important;
 }
 
 
