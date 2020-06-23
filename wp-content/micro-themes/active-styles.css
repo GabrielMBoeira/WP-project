@@ -96,16 +96,28 @@
 /*( Phone )*/
 @media (max-width: 480px) {
 
+	/*= General =================== */
+
+	/** General >> title-gabriel-menu **/
+	.site-title > a {
+	font-size: 20px !important;
+	line-height: 50px !important;
+	font-weight: 300 !important;
+	font-style: normal !important;
+	text-decoration: none !important;
+}
+
+
 	/*= Main Menu ================= */
 
 	/** Main Menu >> arrow-left-caroussel **/
 	#post-33 .slick-prev {
-	margin-left: -50px !important;
+	margin-left: -18% !important;
 }
 
 	/** Main Menu >> arrow-right-caroussel **/
 	#post-33 .slick-next {
-	margin-right: -50px !important;
+	margin-right: -18% !important;
 }
 
 
